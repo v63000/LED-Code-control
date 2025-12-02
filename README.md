@@ -1,3 +1,4 @@
+<img width="2938" height="1676" alt="0f097cf3-2dff-4aed-bd11-594993dfc9c0" src="https://github.com/user-attachments/assets/0a2e2e14-f322-48d3-b837-faefd705e4a1" />
 AI Studio 数字标牌/播控系统 (基础版 V10) 说明文档 的研究 的研究
 1. 项目简介
 这是一个轻量级的本地媒体播放与管理系统。它允许用户通过浏览器（手机或电脑）远程控制连接到主机的显示器，进行视频播放、素材管理、播放列表编排以及待机画面设置。系统支持多显示器识别与切换。
