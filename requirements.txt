@@ -1,0 +1,10 @@
+flask
+python-vlc
+opencv-python
+pillow
+screeninfo
+qrcode[pil]
+psutil
+GPUtil
+wmi
+pywin32
